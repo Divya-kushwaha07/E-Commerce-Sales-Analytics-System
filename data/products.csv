@@ -1,0 +1,51 @@
+product_id,product_name,category_id,brand,rating,price,stock_quantity,discount_percentage,cost_price
+1,iPhone 16,1,Apple,3.9,93810,124,0,56989.88
+2,Samsung Galaxy S25,1,Samsung,4.6,28289,289,30,17843.25
+3,Dell Inspiron Laptop,1,Dell,3.5,21395,121,20,15545.11
+4,Sony Headphones,1,Sony,4.3,40495,376,20,31610.62
+5,Apple Watch,1,Apple,3.8,95181,311,30,72669.02
+6,Men's T-Shirt,2,Nike,3.7,2778,226,0,2299.19
+7,Women's Jeans,2,Levi's,4.9,3287,182,10,2125.52
+8,Hoodie,2,Adidas,4.0,1337,186,0,954.59
+9,Jacket,2,Puma,4.3,2666,482,0,2183.24
+10,Kurti,2,Zara,4.7,3600,326,0,2756.2
+11,Atomic Habits,3,Penguin,3.6,570,348,20,374.88
+12,Deep Work,3,HarperCollins,4.8,433,453,10,387.78
+13,Harry Potter,3,Bloomsbury,4.5,303,196,15,207.07
+14,The Alchemist,3,HarperCollins,4.5,366,369,10,258.61
+15,Rich Dad Poor Dad,3,Penguin,4.5,899,283,30,558.66
+16,Microwave Oven,4,LG,3.9,35087,483,5,25918.0
+17,Refrigerator,4,Samsung,4.8,76000,407,5,61209.2
+18,Washing Machine,4,Whirlpool,4.7,10331,215,5,8745.61
+19,Air Conditioner,4,Panasonic,4.9,38093,458,0,25266.89
+20,Mixer Grinder,4,Philips,4.1,44245,478,5,35246.97
+21,Face Wash,5,Nivea,3.7,2833,391,15,1821.23
+22,Lipstick,5,Maybelline,4.4,2499,469,20,1696.38
+23,Perfume,5,L'Oreal,5.0,2590,80,15,1835.27
+24,Shampoo,5,Dove,3.6,2287,66,15,1434.57
+25,Moisturizer,5,Nivea,4.5,826,315,30,535.24
+26,Cricket Bat,6,SG,5.0,1540,280,15,1100.31
+27,Football,6,Nike,3.5,4619,379,20,3964.18
+28,Badminton Racket,6,Yonex,4.6,2376,403,30,2056.28
+29,Yoga Mat,6,Adidas,3.7,6073,11,0,4178.53
+30,Dumbbells,6,Puma,4.3,4815,64,20,3989.65
+31,Toy Car,7,Hot Wheels,3.8,2744,201,30,2064.31
+32,Barbie Doll,7,Barbie,4.9,1623,480,20,1438.06
+33,Lego Set,7,Lego,3.5,304,485,20,211.96
+34,Puzzle Game,7,Funskool,3.9,3273,300,10,2198.92
+35,Teddy Bear,7,Disney,4.7,945,399,0,774.5
+36,Rice,8,Aashirvaad,4.2,1140,291,5,727.91
+37,Milk,8,Amul,4.4,388,118,10,294.22
+38,Tea Powder,8,Tata,4.5,1952,375,20,1613.48
+39,Sugar,8,Fortune,4.5,688,234,15,618.2
+40,Cooking Oil,8,Fortune,3.9,1892,42,20,1391.46
+41,Office Chair,9,Godrej,3.8,27156,122,0,21086.43
+42,Study Table,9,Nilkamal,3.6,5471,44,0,4444.38
+43,Sofa,9,IKEA,3.9,7058,352,10,4384.83
+44,Bed,9,Durian,4.6,36812,461,5,28042.28
+45,Wardrobe,9,Urban Ladder,4.7,42423,423,20,31469.44
+46,Backpack,10,Wildcraft,4.5,3534,191,5,2220.4
+47,Wallet,10,Titan,4.6,3669,354,15,2715.45
+48,Sunglasses,10,Ray-Ban,4.0,1006,451,0,725.11
+49,Belt,10,Fastrack,4.3,1095,81,5,719.94
+50,Cap,10,Nike,3.9,3656,482,5,2499.11

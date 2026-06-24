@@ -1,0 +1,1001 @@
+payment_id,order_id,payment_method,payment_status,payment_date,transaction_amount
+1,1,Debit Card,Success,2025-09-17,19442.5
+2,2,Net Banking,Success,2025-07-16,8873.6
+3,3,Net Banking,Success,2025-02-28,39604.6
+4,4,UPI,Success,2025-03-07,10419.6
+5,5,UPI,Success,2025-10-28,25897.2
+6,6,Cash on Delivery,Success,2025-09-09,2166.0
+7,7,Debit Card,Success,2025-09-07,4609.95
+8,8,UPI,Pending,2025-03-24,67016.4
+9,9,Cash on Delivery,Success,2025-09-22,26946.6
+10,10,UPI,Success,2025-02-08,103981.2
+11,11,Credit Card,Success,2025-12-26,7622.650000000001
+12,12,Debit Card,Success,2025-12-09,306073.0
+13,13,Debit Card,Success,2025-01-08,4606.0
+14,14,Credit Card,Success,2025-04-24,27390.7
+15,15,Debit Card,Success,2025-02-24,130520.65
+16,16,Debit Card,Pending,2025-11-11,141489.80000000002
+17,17,Debit Card,Failed,2025-12-05,192326.4
+18,18,Debit Card,Success,2025-10-10,19220.5
+19,19,Net Banking,Pending,2025-02-01,40929.95
+20,20,Credit Card,Success,2025-08-24,11608.05
+21,21,Net Banking,Success,2025-02-10,23606.55
+22,22,Debit Card,Success,2025-04-17,106913.4
+23,23,Net Banking,Success,2025-05-11,43055.05
+24,24,Credit Card,Success,2025-10-07,57423.9
+25,25,Credit Card,Success,2025-10-26,584.8
+26,26,Debit Card,Success,2025-01-02,5588.75
+27,27,Cash on Delivery,Success,2025-01-24,16521.9
+28,28,UPI,Success,2025-12-29,132226.35
+29,29,UPI,Pending,2025-03-15,142111.95
+30,30,Net Banking,Success,2025-07-14,4989.6
+31,31,Net Banking,Success,2025-10-25,44807.6
+32,32,Cash on Delivery,Success,2025-12-12,47874.05
+33,33,Cash on Delivery,Success,2025-06-04,3491.05
+34,34,Credit Card,Success,2025-06-09,349.2
+35,35,Net Banking,Success,2025-05-26,6237.3
+36,36,Cash on Delivery,Success,2025-06-02,2080.5
+37,37,UPI,Success,2025-06-02,12107.0
+38,38,Cash on Delivery,Success,2025-03-13,201454.7
+39,39,Net Banking,Success,2025-11-29,93810.0
+40,40,Credit Card,Success,2025-08-30,285016.0
+41,41,UPI,Pending,2025-12-18,169940.75
+42,42,Debit Card,Success,2025-07-25,12914.4
+43,43,Net Banking,Success,2025-09-12,912.0
+44,44,Debit Card,Success,2025-12-24,486.4
+45,45,Credit Card,Success,2025-01-16,33938.4
+46,46,Credit Card,Success,2025-09-26,52836.4
+47,47,UPI,Success,2025-08-21,71125.8
+48,48,Net Banking,Success,2025-05-21,40807.4
+49,49,Cash on Delivery,Success,2025-10-18,97745.45
+50,50,Cash on Delivery,Success,2025-08-13,2958.3
+51,51,Cash on Delivery,Success,2025-04-17,5611.2
+52,52,Debit Card,Success,2025-05-27,13802.9
+53,53,UPI,Success,2025-07-13,107449.0
+54,54,Cash on Delivery,Pending,2025-10-16,390119.9
+55,55,Debit Card,Success,2025-03-29,135951.45
+56,56,Cash on Delivery,Success,2025-04-03,109455.6
+57,57,Credit Card,Success,2025-02-05,912.0
+58,58,Net Banking,Success,2025-09-10,22152.7
+59,59,Debit Card,Success,2025-03-13,141777.6
+60,60,UPI,Success,2025-02-13,45988.3
+61,61,Debit Card,Success,2025-09-30,12849.9
+62,62,Debit Card,Success,2025-07-30,88312.8
+63,63,Debit Card,Success,2025-06-07,3249.0
+64,64,Cash on Delivery,Success,2025-08-12,91306.0
+65,65,Cash on Delivery,Success,2025-04-07,322634.9
+66,66,Credit Card,Success,2025-08-22,22593.4
+67,67,Cash on Delivery,Pending,2025-11-19,97342.25
+68,68,Cash on Delivery,Success,2025-11-08,121979.9
+69,69,Debit Card,Success,2025-04-07,5435.25
+70,70,Debit Card,Success,2025-12-08,32394.95
+71,71,UPI,Success,2025-09-12,284281.55
+72,72,Credit Card,Success,2025-10-30,1357.6
+73,73,Credit Card,Pending,2025-08-12,77863.7
+74,74,Debit Card,Success,2025-12-28,57190.2
+75,75,Net Banking,Success,2025-07-11,19628.9
+76,76,Credit Card,Success,2025-08-19,199880.1
+77,77,Credit Card,Failed,2025-09-21,38441.5
+78,78,Cash on Delivery,Success,2025-09-11,252879.7
+79,79,Credit Card,Success,2025-10-18,13029.85
+80,80,Net Banking,Success,2025-11-25,46405.45
+81,81,UPI,Success,2025-09-16,221932.0
+82,82,Credit Card,Success,2025-11-03,36898.0
+83,83,Net Banking,Success,2025-05-13,6422.4
+84,84,Debit Card,Success,2025-11-21,1561.6
+85,85,Credit Card,Success,2025-05-02,6047.8
+86,86,Cash on Delivery,Success,2025-05-29,36744.9
+87,87,Credit Card,Success,2025-07-12,6276.2
+88,88,UPI,Success,2025-08-22,11835.8
+89,89,Credit Card,Failed,2025-11-25,1040.25
+90,90,Credit Card,Success,2025-02-09,407420.4
+91,91,Debit Card,Success,2025-02-09,44065.7
+92,92,Credit Card,Pending,2025-05-28,6029.85
+93,93,UPI,Success,2025-10-31,22392.5
+94,94,UPI,Success,2025-08-14,119351.05
+95,95,UPI,Success,2025-06-17,3852.0
+96,96,Net Banking,Success,2025-12-15,16006.9
+97,97,Credit Card,Success,2025-03-24,105422.7
+98,98,UPI,Success,2025-11-23,6488.4
+99,99,Net Banking,Success,2025-09-05,113338.4
+100,100,Debit Card,Success,2025-04-25,2201.5
+101,101,UPI,Success,2025-09-22,1717.65
+102,102,UPI,Success,2025-09-15,13805.0
+103,103,UPI,Success,2025-06-10,198121.55
+104,104,Cash on Delivery,Success,2025-09-12,2596.8
+105,105,Credit Card,Success,2025-11-20,46685.15
+106,106,UPI,Failed,2025-03-13,207316.45
+107,107,Credit Card,Success,2025-02-01,10800.0
+108,108,Cash on Delivery,Success,2025-04-01,1169.6
+109,109,Debit Card,Success,2025-11-14,13515.45
+110,110,Cash on Delivery,Success,2025-05-28,33750.6
+111,111,Cash on Delivery,Pending,2025-07-19,12704.4
+112,112,UPI,Success,2025-01-28,17780.5
+113,113,Cash on Delivery,Success,2025-11-16,74113.65
+114,114,Credit Card,Success,2025-08-15,10336.1
+115,115,Credit Card,Success,2025-05-03,289537.55
+116,116,UPI,Success,2025-07-16,486.4
+117,117,Cash on Delivery,Success,2025-05-17,9417.0
+118,118,Debit Card,Success,2025-01-09,78738.85
+119,119,Net Banking,Success,2025-02-11,19548.6
+120,120,Credit Card,Success,2025-04-30,21523.95
+121,121,Net Banking,Success,2025-05-22,47907.45
+122,122,Credit Card,Success,2025-03-20,3852.0
+123,123,Net Banking,Success,2025-07-30,71466.4
+124,124,Debit Card,Success,2025-11-13,99997.95
+125,125,Net Banking,Success,2025-10-24,34232.0
+126,126,Cash on Delivery,Success,2025-06-14,271685.5
+127,127,Net Banking,Pending,2025-11-10,14056.05
+128,128,Debit Card,Success,2025-05-03,6852.4
+129,129,UPI,Success,2025-10-13,20516.0
+130,130,Net Banking,Success,2025-12-21,17116.0
+131,131,Net Banking,Success,2025-02-06,629.3
+132,132,Net Banking,Success,2025-05-03,14872.5
+133,133,Net Banking,Success,2025-11-27,74055.7
+134,134,Cash on Delivery,Pending,2025-10-11,295546.8
+135,135,Debit Card,Success,2025-07-14,4454.0
+136,136,Credit Card,Success,2025-03-17,6198.0
+137,137,Net Banking,Success,2025-09-22,93572.1
+138,138,Credit Card,Failed,2025-02-23,15409.2
+139,139,Net Banking,Success,2025-02-25,3695.2
+140,140,Net Banking,Success,2025-12-22,7704.0
+141,141,Cash on Delivery,Success,2025-03-22,187562.95
+142,142,UPI,Success,2025-08-01,113369.65
+143,143,Net Banking,Success,2025-03-29,12632.4
+144,144,Cash on Delivery,Pending,2025-03-29,69942.8
+145,145,Credit Card,Success,2025-11-01,107593.0
+146,146,Debit Card,Success,2025-01-19,106345.15
+147,147,Debit Card,Success,2025-01-14,125878.1
+148,148,Cash on Delivery,Success,2025-06-06,324595.95
+149,149,UPI,Success,2025-08-06,23721.4
+150,150,Net Banking,Pending,2025-11-03,131738.0
+151,151,Debit Card,Success,2025-12-04,21261.25
+152,152,Net Banking,Failed,2025-03-23,104914.2
+153,153,Net Banking,Success,2025-06-20,195954.0
+154,154,Net Banking,Success,2025-03-02,18115.5
+155,155,Credit Card,Success,2025-01-09,7605.2
+156,156,UPI,Success,2025-02-09,4011.0
+157,157,Debit Card,Success,2025-05-10,55275.0
+158,158,Net Banking,Success,2025-12-17,109733.2
+159,159,Credit Card,Success,2025-01-10,36651.9
+160,160,UPI,Success,2025-01-11,81773.90000000001
+161,161,UPI,Success,2025-08-11,3357.3
+162,162,UPI,Success,2025-11-07,119922.95
+163,163,Net Banking,Success,2025-10-26,243.2
+164,164,Credit Card,Success,2025-04-17,89989.65
+165,165,Cash on Delivery,Success,2025-01-24,203807.1
+166,166,UPI,Success,2025-01-16,22193.0
+167,167,Net Banking,Success,2025-07-08,19103.3
+168,168,Debit Card,Success,2025-12-06,21435.7
+169,169,Net Banking,Success,2025-01-12,17655.65
+170,170,Cash on Delivery,Success,2025-12-17,69942.8
+171,171,Cash on Delivery,Success,2025-11-16,97700.5
+172,172,UPI,Success,2025-06-14,172467.2
+173,173,UPI,Success,2025-03-16,10304.95
+174,174,Net Banking,Success,2025-07-17,19837.3
+175,175,Net Banking,Success,2025-03-16,6104.4
+176,176,Net Banking,Success,2025-04-16,35750.8
+177,177,UPI,Success,2025-01-11,18263.2
+178,178,Cash on Delivery,Success,2025-07-09,44634.55
+179,179,Credit Card,Success,2025-12-03,305299.75
+180,180,Net Banking,Success,2025-08-27,7998.0
+181,181,Debit Card,Success,2025-05-17,23496.7
+182,182,Net Banking,Success,2025-06-20,135732.85
+183,183,Cash on Delivery,Success,2025-02-22,94129.9
+184,184,Cash on Delivery,Success,2025-12-06,71633.6
+185,185,Net Banking,Success,2025-05-13,48575.0
+186,186,Cash on Delivery,Success,2025-10-15,102942.9
+187,187,Net Banking,Success,2025-12-04,59511.05
+188,188,Net Banking,Success,2025-06-06,139859.95
+189,189,Cash on Delivery,Success,2025-07-29,161818.2
+190,190,Debit Card,Success,2025-09-14,127086.45
+191,191,UPI,Success,2025-08-14,27093.9
+192,192,Cash on Delivery,Pending,2025-11-19,124627.7
+193,193,Credit Card,Success,2025-02-09,724357.1000000001
+194,194,Debit Card,Success,2025-10-28,30199.4
+195,195,Debit Card,Success,2025-07-15,46681.65
+196,196,UPI,Success,2025-02-19,110286.6
+197,197,Debit Card,Success,2025-02-09,2718.0
+198,198,Net Banking,Success,2025-11-08,8734.2
+199,199,UPI,Success,2025-01-28,1734.6
+200,200,Credit Card,Success,2025-03-28,36588.9
+201,201,Debit Card,Success,2025-10-08,113626.9
+202,202,UPI,Pending,2025-10-07,147543.15
+203,203,UPI,Success,2025-06-11,227400.0
+204,204,Credit Card,Success,2025-01-09,33184.8
+205,205,Cash on Delivery,Success,2025-09-19,82682.0
+206,206,UPI,Success,2025-12-31,176559.55
+207,207,Net Banking,Success,2025-04-15,27423.4
+208,208,Debit Card,Success,2025-05-19,112375.8
+209,209,Net Banking,Success,2025-10-31,141382.19999999998
+210,210,Debit Card,Success,2025-03-31,10581.45
+211,211,Cash on Delivery,Success,2025-01-10,116480.5
+212,212,Debit Card,Success,2025-09-11,158111.8
+213,213,Net Banking,Success,2025-07-17,33022.9
+214,214,Credit Card,Success,2025-12-13,1156.4
+215,215,Net Banking,Success,2025-09-06,10302.15
+216,216,Credit Card,Success,2025-04-30,10122.6
+217,217,Debit Card,Success,2025-11-19,130272.85
+218,218,Credit Card,Success,2025-05-20,15078.4
+219,219,UPI,Success,2025-12-22,26757.25
+220,220,Debit Card,Pending,2025-10-02,9805.7
+221,221,UPI,Success,2025-12-16,53026.75
+222,222,Cash on Delivery,Success,2025-05-28,73604.90000000001
+223,223,Credit Card,Success,2025-10-17,13192.65
+224,224,Cash on Delivery,Success,2025-10-26,228817.75
+225,225,Cash on Delivery,Success,2025-08-22,138886.7
+226,226,Debit Card,Success,2025-04-14,137202.5
+227,227,Cash on Delivery,Success,2025-07-07,12183.8
+228,228,Net Banking,Success,2025-07-31,16131.6
+229,229,Debit Card,Success,2025-01-29,25473.0
+230,230,Debit Card,Success,2025-05-17,4986.6
+231,231,Net Banking,Pending,2025-06-15,3357.3
+232,232,Credit Card,Success,2025-01-20,34128.15
+233,233,Net Banking,Success,2025-05-03,10419.6
+234,234,Cash on Delivery,Success,2025-04-27,2408.05
+235,235,Cash on Delivery,Success,2025-08-14,16578.9
+236,236,UPI,Success,2025-06-11,3473.2
+237,237,Cash on Delivery,Success,2025-12-29,132605.69999999998
+238,238,Credit Card,Success,2025-08-11,9905.5
+239,239,Debit Card,Success,2025-10-10,2056.1
+240,240,Cash on Delivery,Success,2025-06-20,9814.45
+241,241,Cash on Delivery,Success,2025-06-17,15929.95
+242,242,Debit Card,Success,2025-02-20,1773.6999999999998
+243,243,Credit Card,Success,2025-01-29,321056.8
+244,244,Credit Card,Success,2025-09-02,35199.9
+245,245,Net Banking,Success,2025-05-29,1368.0
+246,246,Debit Card,Success,2025-08-10,11556.0
+247,247,Credit Card,Success,2025-04-20,142829.85
+248,248,Debit Card,Success,2025-06-28,1890.0
+249,249,Credit Card,Success,2025-06-09,155741.75
+250,250,Cash on Delivery,Success,2025-09-18,698.4
+251,251,Net Banking,Success,2025-01-18,217934.7
+252,252,UPI,Success,2025-09-03,13471.7
+253,253,Credit Card,Success,2025-04-28,200725.7
+254,254,Credit Card,Success,2025-04-28,126316.5
+255,255,Net Banking,Success,2025-08-23,16374.4
+256,256,Cash on Delivery,Success,2025-04-03,2142.9
+257,257,Net Banking,Success,2025-03-02,4540.8
+258,258,Credit Card,Success,2025-09-28,183990.9
+259,259,Debit Card,Success,2025-12-08,9366.0
+260,260,UPI,Success,2025-07-23,10936.75
+261,261,Debit Card,Success,2025-03-08,29924.3
+262,262,UPI,Success,2025-07-04,29684.75
+263,263,UPI,Success,2025-09-24,162918.15
+264,264,UPI,Success,2025-05-18,698.4
+265,265,Cash on Delivery,Success,2025-12-31,69942.8
+266,266,UPI,Success,2025-10-17,329.4
+267,267,Debit Card,Success,2025-03-08,90579.2
+268,268,Net Banking,Success,2025-08-02,177732.65
+269,269,Credit Card,Success,2025-10-11,129602.6
+270,270,Cash on Delivery,Success,2025-11-04,10391.6
+271,271,Cash on Delivery,Success,2025-05-29,210006.2
+272,272,Net Banking,Success,2025-09-20,42134.65
+273,273,Credit Card,Success,2025-01-18,4999.2
+274,274,Debit Card,Success,2025-02-24,50339.8
+275,275,Cash on Delivery,Success,2025-07-17,26673.6
+276,276,Credit Card,Success,2025-07-18,19666.75
+277,277,Credit Card,Pending,2025-02-03,945.0
+278,278,UPI,Success,2025-08-19,227321.7
+279,279,Credit Card,Success,2025-06-28,54359.5
+280,280,Net Banking,Success,2025-05-28,42032.75
+281,281,Debit Card,Success,2025-09-08,194247.35
+282,282,Net Banking,Success,2025-09-27,93526.1
+283,283,UPI,Success,2025-09-14,131817.35
+284,284,Cash on Delivery,Success,2025-12-22,16797.6
+285,285,Net Banking,Success,2025-06-07,11238.7
+286,286,Debit Card,Pending,2025-05-07,136467.6
+287,287,Debit Card,Success,2025-10-03,7029.0
+288,288,Debit Card,Success,2025-04-25,81817.2
+289,289,UPI,Pending,2025-01-20,226829.65
+290,290,UPI,Success,2025-07-25,288654.15
+291,291,Debit Card,Success,2025-04-05,15521.8
+292,292,Debit Card,Success,2025-12-24,31972.1
+293,293,UPI,Success,2025-12-20,69851.4
+294,294,Net Banking,Success,2025-03-25,78073.9
+295,295,UPI,Success,2025-03-03,155718.4
+296,296,Debit Card,Success,2025-09-24,43506.35
+297,297,UPI,Success,2025-06-25,334613.3
+298,298,Debit Card,Success,2025-02-27,19280.6
+299,299,Credit Card,Success,2025-08-06,150993.8
+300,300,Debit Card,Success,2025-10-08,90959.35
+301,301,UPI,Success,2025-05-12,26628.7
+302,302,UPI,Success,2025-12-28,148574.75
+303,303,Net Banking,Success,2025-08-15,79424.15
+304,304,Debit Card,Pending,2025-03-02,3571.75
+305,305,UPI,Success,2025-02-01,14981.0
+306,306,Debit Card,Success,2025-01-13,281430.0
+307,307,Debit Card,Success,2025-08-04,55091.4
+308,308,Cash on Delivery,Success,2025-12-21,4403.0
+309,309,Net Banking,Success,2025-07-15,19518.1
+310,310,UPI,Pending,2025-10-25,15726.5
+311,311,Net Banking,Success,2025-08-20,93058.25
+312,312,UPI,Success,2025-12-17,5831.85
+313,313,Credit Card,Success,2025-06-11,36533.0
+314,314,Debit Card,Success,2025-05-02,57343.2
+315,315,UPI,Success,2025-12-24,135387.0
+316,316,Credit Card,Success,2025-05-08,30560.4
+317,317,Cash on Delivery,Success,2025-06-14,149244.75
+318,318,Debit Card,Success,2025-11-25,323732.35
+319,319,Net Banking,Success,2025-06-09,21223.0
+320,320,Debit Card,Success,2025-12-17,60317.25
+321,321,Cash on Delivery,Pending,2025-09-23,104213.95
+322,322,Debit Card,Success,2025-01-09,36047.85
+323,323,UPI,Success,2025-04-19,5465.599999999999
+324,324,Debit Card,Success,2025-10-13,73932.55
+325,325,Net Banking,Success,2025-03-10,120472.1
+326,326,Cash on Delivery,Success,2025-08-07,199679.15
+327,327,UPI,Success,2025-03-16,226699.55
+328,328,Cash on Delivery,Success,2025-06-16,18168.7
+329,329,UPI,Success,2025-08-02,96829.7
+330,330,Credit Card,Success,2025-09-11,75834.2
+331,331,Credit Card,Failed,2025-11-16,10303.7
+332,332,Net Banking,Success,2025-08-04,107626.4
+333,333,Cash on Delivery,Success,2025-05-11,3927.0
+334,334,Credit Card,Success,2025-05-10,81012.6
+335,335,Debit Card,Pending,2025-10-10,92410.0
+336,336,Cash on Delivery,Failed,2025-07-15,44237.65
+337,337,UPI,Success,2025-07-29,138516.2
+338,338,Net Banking,Success,2025-07-15,14203.6
+339,339,UPI,Success,2025-04-23,13966.0
+340,340,Credit Card,Success,2025-02-19,10326.95
+341,341,Debit Card,Success,2025-04-08,115589.7
+342,342,Net Banking,Success,2025-03-23,5351.85
+343,343,Credit Card,Failed,2025-01-17,7119.15
+344,344,Credit Card,Success,2025-05-06,53740.7
+345,345,Debit Card,Success,2025-12-20,85368.5
+346,346,Net Banking,Success,2025-09-08,329.4
+347,347,Net Banking,Success,2025-12-19,87279.9
+348,348,UPI,Success,2025-04-22,73978.6
+349,349,Debit Card,Success,2025-05-20,3881.5
+350,350,Cash on Delivery,Success,2025-05-06,119077.4
+351,351,Credit Card,Success,2025-04-15,23879.2
+352,352,Cash on Delivery,Success,2025-02-10,46900.65
+353,353,UPI,Success,2025-09-10,41642.35
+354,354,Net Banking,Success,2025-10-23,180591.1
+355,355,Debit Card,Success,2025-11-08,3841.6
+356,356,Credit Card,Pending,2025-08-08,12827.65
+357,357,Net Banking,Success,2025-03-13,145029.3
+358,358,UPI,Success,2025-06-21,105844.7
+359,359,Cash on Delivery,Success,2025-03-06,19499.8
+360,360,UPI,Success,2025-01-07,1337.0
+361,361,Credit Card,Pending,2025-03-24,176445.59999999998
+362,362,Debit Card,Success,2025-05-03,12289.0
+363,363,UPI,Success,2025-10-17,86294.20000000001
+364,364,Cash on Delivery,Success,2025-06-01,129641.75
+365,365,Debit Card,Success,2025-12-05,101815.2
+366,366,Debit Card,Success,2025-04-23,8837.1
+367,367,Cash on Delivery,Success,2025-05-23,234291.6
+368,368,Cash on Delivery,Success,2025-04-26,301371.3
+369,369,Debit Card,Success,2025-09-10,84448.8
+370,370,Cash on Delivery,Success,2025-05-14,15098.9
+371,371,Debit Card,Success,2025-08-06,210860.7
+372,372,Credit Card,Failed,2025-08-29,111767.2
+373,373,Debit Card,Success,2025-02-04,6616.4
+374,374,Credit Card,Success,2025-12-16,13890.25
+375,375,UPI,Success,2025-01-19,1520.6
+376,376,UPI,Success,2025-03-11,17609.25
+377,377,Net Banking,Success,2025-03-02,9640.25
+378,378,Debit Card,Success,2025-05-09,213209.8
+379,379,Debit Card,Success,2025-07-24,223249.75
+380,380,Cash on Delivery,Success,2025-05-02,13273.0
+381,381,Cash on Delivery,Success,2025-03-30,39684.85
+382,382,Net Banking,Success,2025-07-27,78084.6
+383,383,Debit Card,Success,2025-04-13,8067.4
+384,384,Credit Card,Success,2025-06-05,76456.1
+385,385,UPI,Failed,2025-01-28,231394.5
+386,386,Credit Card,Success,2025-07-28,13743.4
+387,387,Credit Card,Success,2025-10-29,78040.5
+388,388,UPI,Success,2025-04-20,27608.4
+389,389,Debit Card,Success,2025-06-01,57153.2
+390,390,Net Banking,Success,2025-03-02,9658.9
+391,391,UPI,Success,2025-12-25,235068.6
+392,392,UPI,Success,2025-09-01,54312.0
+393,393,Debit Card,Success,2025-09-15,140679.0
+394,394,Net Banking,Success,2025-03-17,215827.95
+395,395,UPI,Success,2025-11-07,5014.1
+396,396,UPI,Success,2025-04-13,25242.45
+397,397,UPI,Success,2025-12-30,102102.9
+398,398,Debit Card,Success,2025-06-15,14071.0
+399,399,Credit Card,Success,2025-05-12,226844.25
+400,400,Cash on Delivery,Success,2025-03-21,10346.0
+401,401,Cash on Delivery,Success,2025-10-27,14697.0
+402,402,Cash on Delivery,Success,2025-06-18,17418.25
+403,403,Net Banking,Success,2025-09-13,29019.0
+404,404,Credit Card,Success,2025-10-25,223138.7
+405,405,UPI,Success,2025-12-18,123254.0
+406,406,UPI,Success,2025-08-09,2926.8
+407,407,UPI,Success,2025-08-09,47467.3
+408,408,Debit Card,Success,2025-11-27,82775.20000000001
+409,409,Debit Card,Success,2025-11-23,86847.7
+410,410,UPI,Success,2025-04-05,71533.6
+411,411,Net Banking,Success,2025-03-23,64119.6
+412,412,Net Banking,Success,2025-02-03,614849.35
+413,413,Cash on Delivery,Success,2025-11-03,213140.1
+414,414,Debit Card,Success,2025-06-21,25667.3
+415,415,Cash on Delivery,Success,2025-08-16,61930.0
+416,416,Debit Card,Success,2025-10-21,37371.75
+417,417,Credit Card,Success,2025-09-09,296957.5
+418,418,Debit Card,Pending,2025-04-18,2498.4
+419,419,UPI,Success,2025-10-01,23723.7
+420,420,Cash on Delivery,Failed,2025-09-26,26399.4
+421,421,UPI,Success,2025-08-08,133567.6
+422,422,Debit Card,Success,2025-04-13,3357.3
+423,423,Credit Card,Success,2025-06-22,285271.6
+424,424,UPI,Success,2025-07-25,329.4
+425,425,Credit Card,Success,2025-03-31,67200.05
+426,426,Net Banking,Success,2025-10-08,1943.95
+427,427,Debit Card,Success,2025-06-30,20693.65
+428,428,UPI,Success,2025-02-22,6723.0
+429,429,Net Banking,Success,2025-09-03,10800.0
+430,430,Debit Card,Success,2025-09-03,57001.55
+431,431,Debit Card,Success,2025-07-13,52955.8
+432,432,Debit Card,Success,2025-12-15,5963.7
+433,433,Net Banking,Success,2025-05-01,3600.0
+434,434,Net Banking,Failed,2025-10-14,159050.4
+435,435,Debit Card,Success,2025-10-12,11684.65
+436,436,UPI,Pending,2025-08-04,23583.65
+437,437,Debit Card,Success,2025-06-22,131729.9
+438,438,Net Banking,Success,2025-04-20,170009.4
+439,439,UPI,Success,2025-09-10,5369.3
+440,440,Cash on Delivery,Success,2025-04-21,15034.5
+441,441,Net Banking,Success,2025-10-10,3187.4500000000003
+442,442,Credit Card,Pending,2025-12-04,11085.6
+443,443,Cash on Delivery,Success,2025-01-14,8882.4
+444,444,Debit Card,Success,2025-08-13,72337.3
+445,445,Net Banking,Success,2025-06-04,52710.45
+446,446,Net Banking,Success,2025-11-14,144543.0
+447,447,Credit Card,Success,2025-09-03,140281.3
+448,448,Debit Card,Success,2025-04-17,116470.2
+449,449,Cash on Delivery,Success,2025-09-29,103093.0
+450,450,Debit Card,Success,2025-08-16,228757.15
+451,451,Cash on Delivery,Success,2025-01-27,73260.6
+452,452,UPI,Success,2025-02-26,8208.75
+453,453,Cash on Delivery,Success,2025-01-25,9143.95
+454,454,Net Banking,Success,2025-01-11,74745.0
+455,455,Net Banking,Success,2025-02-25,85021.1
+456,456,Debit Card,Success,2026-01-01,19056.6
+457,457,Cash on Delivery,Success,2025-05-22,33938.4
+458,458,Cash on Delivery,Pending,2025-07-16,1890.0
+459,459,UPI,Success,2025-10-06,12289.7
+460,460,Credit Card,Success,2025-03-26,1663.2
+461,461,Net Banking,Success,2025-04-08,389.7
+462,462,UPI,Success,2025-08-24,12704.4
+463,463,Debit Card,Success,2025-10-31,67915.2
+464,464,Cash on Delivery,Success,2025-01-29,8560.8
+465,465,Net Banking,Success,2025-01-21,2080.5
+466,466,Debit Card,Pending,2025-10-17,2958.3
+467,467,Credit Card,Success,2025-05-15,912.0
+468,468,UPI,Success,2025-08-30,12447.9
+469,469,UPI,Pending,2025-12-27,19850.0
+470,470,Cash on Delivery,Success,2025-09-03,1006.0
+471,471,UPI,Success,2025-01-31,5203.7
+472,472,UPI,Pending,2025-04-21,147611.65
+473,473,Credit Card,Success,2025-01-30,9390.0
+474,474,Net Banking,Success,2025-05-02,3927.0
+475,475,Cash on Delivery,Success,2025-03-31,38230.4
+476,476,Debit Card,Success,2025-03-31,183145.8
+477,477,Net Banking,Success,2025-11-12,18219.0
+478,478,UPI,Success,2025-06-29,87161.05
+479,479,Credit Card,Success,2025-06-02,6648.2
+480,480,Credit Card,Success,2025-02-20,38748.2
+481,481,UPI,Success,2025-07-12,165466.94999999998
+482,482,UPI,Success,2025-04-02,12232.65
+483,483,Net Banking,Success,2025-12-02,154777.55
+484,484,Credit Card,Success,2025-12-16,8742.2
+485,485,Cash on Delivery,Success,2025-12-26,298576.0
+486,486,UPI,Success,2025-01-04,3695.2
+487,487,Net Banking,Pending,2025-02-05,8626.099999999999
+488,488,Net Banking,Success,2025-07-21,16515.5
+489,489,UPI,Pending,2025-07-07,28490.85
+490,490,Credit Card,Success,2025-01-06,19056.6
+491,491,Net Banking,Failed,2025-03-29,86113.40000000001
+492,492,Net Banking,Success,2025-01-19,64792.0
+493,493,Net Banking,Success,2025-04-24,37893.9
+494,494,Credit Card,Success,2025-11-12,68070.6
+495,495,Cash on Delivery,Success,2025-08-01,100798.6
+496,496,UPI,Success,2025-07-14,54757.6
+497,497,UPI,Success,2025-03-30,16413.0
+498,498,Net Banking,Success,2025-05-03,199766.0
+499,499,Net Banking,Success,2025-05-06,25416.8
+500,500,UPI,Success,2025-11-10,10419.6
+501,501,Net Banking,Success,2025-03-21,132216.15
+502,502,Cash on Delivery,Success,2025-05-07,82873.0
+503,503,Credit Card,Success,2025-09-22,1887.9
+504,504,Cash on Delivery,Success,2025-08-28,165581.45
+505,505,Net Banking,Success,2025-04-29,73126.65000000001
+506,506,Cash on Delivery,Success,2025-01-24,5692.799999999999
+507,507,Debit Card,Success,2025-11-28,33938.4
+508,508,Net Banking,Success,2025-02-26,11151.45
+509,509,Net Banking,Success,2025-10-19,10476.0
+510,510,Net Banking,Success,2025-06-05,6076.950000000001
+511,511,UPI,Success,2025-04-13,144419.0
+512,512,Debit Card,Success,2025-09-16,128360.05
+513,513,Net Banking,Pending,2025-12-16,123970.8
+514,514,Net Banking,Success,2025-04-05,32396.0
+515,515,Cash on Delivery,Success,2025-05-08,61296.9
+516,516,Cash on Delivery,Pending,2025-10-06,3123.2
+517,517,Cash on Delivery,Success,2025-03-30,6946.4
+518,518,Credit Card,Success,2026-01-02,80879.15
+519,519,Net Banking,Success,2025-07-01,115283.6
+520,520,Debit Card,Success,2025-11-24,6099.6
+521,521,Credit Card,Success,2025-10-09,1663.2
+522,522,Debit Card,Success,2025-03-19,284553.2
+523,523,Net Banking,Success,2025-01-09,12232.2
+524,524,Credit Card,Success,2025-07-24,14676.75
+525,525,Credit Card,Success,2025-05-08,103924.95
+526,526,UPI,Success,2025-09-25,116043.4
+527,527,Net Banking,Success,2025-01-18,55565.05
+528,528,Credit Card,Success,2025-04-03,152634.45
+529,529,Cash on Delivery,Success,2025-10-17,15026.8
+530,530,UPI,Success,2025-11-26,20824.7
+531,531,Debit Card,Success,2025-11-04,123152.6
+532,532,Credit Card,Success,2025-01-19,57551.05
+533,533,Cash on Delivery,Success,2025-11-26,136821.3
+534,534,UPI,Success,2025-06-23,13615.0
+535,535,Net Banking,Success,2025-01-19,92722.95
+536,536,Cash on Delivery,Failed,2025-08-17,97782.05
+537,537,UPI,Success,2025-03-25,39026.4
+538,538,Net Banking,Success,2025-06-02,3927.0
+539,539,Debit Card,Success,2025-02-18,300228.0
+540,540,UPI,Success,2025-04-15,56800.05
+541,541,Credit Card,Success,2025-03-15,15010.75
+542,542,UPI,Success,2025-07-16,164459.05
+543,543,Net Banking,Success,2025-09-10,17019.9
+544,544,UPI,Success,2025-06-04,122026.05
+545,545,Cash on Delivery,Success,2025-10-11,6728.599999999999
+546,546,Cash on Delivery,Failed,2025-01-02,19231.8
+547,547,Credit Card,Success,2025-11-18,65808.3
+548,548,Credit Card,Success,2025-08-11,58871.95
+549,549,Credit Card,Success,2025-08-17,157636.0
+550,550,Net Banking,Success,2025-05-06,12830.95
+551,551,UPI,Success,2025-11-15,131130.7
+552,552,Debit Card,Success,2025-01-02,4227.6
+553,553,Credit Card,Success,2025-07-05,126610.6
+554,554,Credit Card,Success,2025-12-18,6073.0
+555,555,Net Banking,Success,2025-04-27,88265.3
+556,556,Credit Card,Success,2025-02-18,194553.55
+557,557,Debit Card,Success,2025-02-23,101815.2
+558,558,Cash on Delivery,Success,2025-04-05,294200.8
+559,559,UPI,Success,2025-06-20,158905.4
+560,560,Debit Card,Success,2025-06-14,24504.5
+561,561,Debit Card,Success,2025-03-07,13668.6
+562,562,Credit Card,Success,2025-12-03,51543.65
+563,563,Credit Card,Success,2025-05-13,13054.3
+564,564,Net Banking,Success,2025-09-26,3120.75
+565,565,Net Banking,Success,2025-04-08,44587.0
+566,566,Cash on Delivery,Success,2025-10-10,293590.5
+567,567,UPI,Success,2025-10-13,3841.6
+568,568,Credit Card,Success,2025-04-10,72866.40000000001
+569,569,Cash on Delivery,Success,2025-11-20,14539.7
+570,570,UPI,Pending,2025-03-15,7680.15
+571,571,Debit Card,Pending,2025-12-09,192394.0
+572,572,Credit Card,Success,2025-04-25,10419.6
+573,573,UPI,Success,2025-05-23,389.7
+574,574,UPI,Pending,2025-01-18,76573.8
+575,575,Cash on Delivery,Success,2025-05-09,84065.5
+576,576,Cash on Delivery,Success,2025-10-05,40707.7
+577,577,Net Banking,Success,2025-01-06,35512.55
+578,578,Cash on Delivery,Success,2025-04-03,44876.7
+579,579,Debit Card,Success,2025-01-16,19628.9
+580,580,UPI,Success,2025-09-02,255232.05
+581,581,Cash on Delivery,Pending,2025-11-25,1156.4
+582,582,Net Banking,Success,2025-07-25,225955.95
+583,583,Credit Card,Pending,2025-08-16,122953.65
+584,584,Debit Card,Success,2025-06-01,3473.2
+585,585,Credit Card,Success,2025-08-22,228789.9
+586,586,UPI,Success,2025-10-02,41621.45
+587,587,Cash on Delivery,Success,2025-09-22,371092.3
+588,588,Net Banking,Success,2025-10-16,76186.0
+589,589,Cash on Delivery,Success,2025-10-17,78104.8
+590,590,Credit Card,Success,2025-07-21,12029.95
+591,591,Cash on Delivery,Success,2025-11-09,161395.2
+592,592,Cash on Delivery,Success,2025-04-22,142533.9
+593,593,Credit Card,Success,2025-08-04,7575.7
+594,594,UPI,Success,2025-11-29,75775.7
+595,595,Credit Card,Success,2025-05-07,8988.0
+596,596,Net Banking,Success,2025-04-05,4011.0
+597,597,UPI,Success,2025-10-08,3900.3
+598,598,Debit Card,Success,2025-03-07,74617.4
+599,599,UPI,Success,2025-12-15,26624.55
+600,600,UPI,Success,2025-03-25,121906.5
+601,601,Debit Card,Success,2025-01-21,83781.3
+602,602,Net Banking,Success,2025-01-02,137185.15
+603,603,Credit Card,Success,2025-12-19,18240.6
+604,604,Debit Card,Success,2025-10-28,203775.3
+605,605,Debit Card,Success,2025-08-07,21519.0
+606,606,Net Banking,Success,2025-01-02,21233.5
+607,607,UPI,Success,2025-04-03,2820.2
+608,608,Cash on Delivery,Pending,2025-10-17,68358.75
+609,609,Debit Card,Success,2025-03-13,105499.0
+610,610,UPI,Success,2025-09-03,37508.8
+611,611,Net Banking,Success,2025-08-31,314613.0
+612,612,UPI,Success,2025-10-20,38823.4
+613,613,UPI,Success,2025-12-23,1263.55
+614,614,Credit Card,Pending,2025-12-08,308338.6
+615,615,Credit Card,Success,2025-06-02,1314.4
+616,616,UPI,Success,2025-09-23,10204.5
+617,617,Cash on Delivery,Success,2025-08-02,7014.3
+618,618,Cash on Delivery,Pending,2025-12-29,117528.0
+619,619,Debit Card,Success,2025-01-28,357395.9
+620,620,Net Banking,Success,2025-05-11,57623.65
+621,621,Net Banking,Success,2025-10-18,4870.9
+622,622,Credit Card,Success,2025-10-10,44194.35
+623,623,Cash on Delivery,Success,2025-04-19,43546.35
+624,624,Net Banking,Success,2025-10-27,92902.6
+625,625,Credit Card,Success,2025-01-26,18325.8
+626,626,Credit Card,Pending,2025-09-13,115562.45
+627,627,Net Banking,Pending,2025-01-17,160879.15
+628,628,Credit Card,Success,2025-10-30,140252.1
+629,629,UPI,Success,2025-04-30,5762.4
+630,630,UPI,Success,2025-08-08,19628.9
+631,631,Debit Card,Pending,2025-09-27,46027.75
+632,632,UPI,Pending,2025-06-24,157430.75
+633,633,UPI,Success,2025-06-07,136550.0
+634,634,Debit Card,Pending,2025-04-08,76932.8
+635,635,Debit Card,Success,2025-07-31,90587.1
+636,636,Net Banking,Success,2025-10-13,24224.6
+637,637,Credit Card,Success,2025-12-26,263852.1
+638,638,Cash on Delivery,Success,2025-11-30,6672.4
+639,639,UPI,Success,2025-01-24,25244.9
+640,640,Debit Card,Success,2025-07-29,30714.95
+641,641,Credit Card,Success,2025-03-07,3123.2
+642,642,UPI,Pending,2025-03-16,11056.2
+643,643,Cash on Delivery,Success,2025-04-30,20791.2
+644,644,UPI,Success,2025-06-13,329.4
+645,645,Net Banking,Pending,2025-10-27,81468.0
+646,646,Cash on Delivery,Success,2025-06-07,31989.95
+647,647,Cash on Delivery,Success,2025-11-06,93038.4
+648,648,Debit Card,Success,2025-06-10,56217.35
+649,649,Net Banking,Success,2025-09-14,55197.1
+650,650,Credit Card,Success,2025-04-26,33961.950000000004
+651,651,Net Banking,Success,2025-05-24,67876.8
+652,652,Credit Card,Success,2025-06-13,12517.6
+653,653,UPI,Success,2025-11-12,108396.6
+654,654,Net Banking,Success,2025-06-06,34267.8
+655,655,Net Banking,Success,2025-07-14,80114.6
+656,656,Cash on Delivery,Success,2025-11-05,123807.55
+657,657,Net Banking,Success,2025-12-08,79776.40000000001
+658,658,UPI,Success,2025-12-26,10071.9
+659,659,UPI,Success,2025-02-14,18401.8
+660,660,Cash on Delivery,Success,2025-03-13,10930.9
+661,661,Cash on Delivery,Pending,2025-07-14,7357.55
+662,662,Credit Card,Success,2025-12-19,152809.80000000002
+663,663,Cash on Delivery,Success,2025-08-28,64792.0
+664,664,Net Banking,Success,2025-09-10,4419.15
+665,665,UPI,Success,2025-11-27,59687.1
+666,666,UPI,Success,2025-03-07,38465.95
+667,667,Credit Card,Success,2025-01-07,22723.6
+668,668,Cash on Delivery,Success,2025-01-15,85154.0
+669,669,UPI,Success,2025-01-27,52404.95
+670,670,Net Banking,Pending,2025-12-24,193896.2
+671,671,Net Banking,Success,2025-06-03,130958.2
+672,672,Debit Card,Success,2025-10-17,6604.5
+673,673,Credit Card,Success,2025-06-01,25424.2
+674,674,UPI,Pending,2025-04-02,66389.0
+675,675,Net Banking,Success,2025-09-21,214214.7
+676,676,UPI,Success,2025-01-08,16249.6
+677,677,UPI,Pending,2025-05-14,127717.0
+678,678,Debit Card,Success,2025-10-24,91210.65
+679,679,Credit Card,Success,2025-05-14,40329.8
+680,680,UPI,Success,2025-01-24,1169.6
+681,681,Debit Card,Success,2025-03-06,126098.25
+682,682,Credit Card,Pending,2025-08-02,3369.4500000000003
+683,683,Cash on Delivery,Success,2025-09-02,128340.9
+684,684,Credit Card,Success,2025-08-29,12137.0
+685,685,UPI,Success,2025-10-19,13037.6
+686,686,Net Banking,Success,2025-02-28,11875.0
+687,687,Debit Card,Success,2025-02-14,48788.05
+688,688,Net Banking,Failed,2025-08-10,63702.15
+689,689,Debit Card,Success,2025-12-12,197160.95
+690,690,UPI,Success,2025-08-06,14557.5
+691,691,Credit Card,Success,2025-08-04,99997.95
+692,692,Cash on Delivery,Success,2025-01-27,1569.4
+693,693,Net Banking,Success,2025-03-22,88660.25
+694,694,UPI,Success,2025-05-22,114279.0
+695,695,UPI,Pending,2025-09-19,34017.0
+696,696,Net Banking,Success,2025-04-07,227277.15
+697,697,UPI,Success,2025-07-19,6877.5
+698,698,UPI,Success,2025-07-16,31506.75
+699,699,Credit Card,Success,2025-06-17,74029.6
+700,700,Debit Card,Success,2025-06-21,122264.1
+701,701,Credit Card,Success,2025-06-04,331005.2
+702,702,Debit Card,Failed,2025-03-25,1169.6
+703,703,Net Banking,Success,2025-09-28,89239.6
+704,704,Cash on Delivery,Success,2025-12-03,81789.6
+705,705,Credit Card,Success,2025-06-07,72901.1
+706,706,Cash on Delivery,Success,2025-04-04,329.4
+707,707,Credit Card,Success,2025-08-15,133253.4
+708,708,Cash on Delivery,Success,2025-11-15,39181.25
+709,709,UPI,Success,2025-12-07,118596.6
+710,710,Net Banking,Success,2025-05-24,44359.65
+711,711,Credit Card,Success,2025-05-24,158870.0
+712,712,UPI,Success,2025-10-24,306805.8
+713,713,Debit Card,Success,2025-10-04,2674.0
+714,714,Net Banking,Success,2025-09-22,7224.15
+715,715,Credit Card,Success,2025-11-30,159645.3
+716,716,UPI,Success,2025-09-20,130666.15
+717,717,Cash on Delivery,Success,2025-12-27,16187.55
+718,718,Debit Card,Success,2025-04-27,4629.6
+719,719,Net Banking,Success,2025-03-13,7744.4
+720,720,Credit Card,Success,2025-01-28,144400.0
+721,721,Net Banking,Success,2025-09-26,95822.0
+722,722,Cash on Delivery,Success,2025-11-20,9814.45
+723,723,Debit Card,Success,2025-10-04,33948.3
+724,724,Net Banking,Success,2025-08-25,7190.400000000001
+725,725,Credit Card,Success,2025-04-26,76713.90000000001
+726,726,Debit Card,Success,2025-08-14,129106.15
+727,727,Net Banking,Success,2025-03-28,11118.4
+728,728,UPI,Pending,2025-03-18,3356.6
+729,729,UPI,Success,2025-07-28,38093.0
+730,730,UPI,Success,2025-02-24,9769.8
+731,731,Credit Card,Success,2025-04-12,240377.25
+732,732,Cash on Delivery,Success,2025-07-22,108100.2
+733,733,Net Banking,Success,2025-07-21,80743.0
+734,734,UPI,Success,2025-10-17,51579.45
+735,735,Net Banking,Success,2025-12-24,91674.1
+736,736,Debit Card,Success,2025-04-20,48557.9
+737,737,Cash on Delivery,Success,2025-10-07,87755.8
+738,738,Net Banking,Success,2025-08-19,74228.6
+739,739,UPI,Pending,2025-04-06,66626.7
+740,740,Net Banking,Success,2025-06-20,81333.6
+741,741,Credit Card,Success,2025-02-01,2778.9
+742,742,UPI,Success,2025-10-17,280948.35
+743,743,UPI,Success,2025-08-22,64792.0
+744,744,Debit Card,Success,2025-02-06,36396.0
+745,745,UPI,Success,2025-05-25,29121.1
+746,746,Credit Card,Success,2025-05-24,20849.9
+747,747,Net Banking,Success,2025-06-19,72634.6
+748,748,UPI,Success,2025-07-21,110151.2
+749,749,Net Banking,Success,2025-02-19,7495.2
+750,750,UPI,Success,2025-04-30,97188.0
+751,751,Net Banking,Success,2025-01-26,47327.0
+752,752,Debit Card,Success,2025-09-24,202221.5
+753,753,Credit Card,Success,2025-03-13,91011.9
+754,754,Cash on Delivery,Success,2025-06-17,772.65
+755,755,UPI,Success,2025-08-08,1734.6
+756,756,UPI,Success,2025-07-29,32856.15
+757,757,Debit Card,Success,2025-07-19,5471.0
+758,758,Cash on Delivery,Success,2025-11-11,40394.0
+759,759,Credit Card,Success,2025-09-28,2778.0
+760,760,Cash on Delivery,Success,2025-11-24,68419.7
+761,761,Cash on Delivery,Success,2025-03-16,55909.9
+762,762,UPI,Success,2025-10-07,188058.85
+763,763,UPI,Success,2025-09-29,83164.55
+764,764,Net Banking,Failed,2025-07-20,128763.35
+765,765,Debit Card,Success,2025-09-06,10071.9
+766,766,Cash on Delivery,Pending,2025-01-29,12120.45
+767,767,Net Banking,Success,2025-11-01,236284.35
+768,768,Cash on Delivery,Success,2025-12-23,1169.6
+769,769,Credit Card,Success,2025-02-27,2958.3
+770,770,Debit Card,Success,2025-08-20,150435.0
+771,771,Cash on Delivery,Success,2025-05-25,97199.9
+772,772,Debit Card,Success,2025-02-18,18700.25
+773,773,Net Banking,Success,2025-09-22,3716.1
+774,774,Debit Card,Success,2025-02-23,7009.95
+775,775,Cash on Delivery,Pending,2025-04-08,15860.25
+776,776,Credit Card,Success,2025-07-25,4944.9
+777,777,UPI,Success,2025-08-10,7224.15
+778,778,Credit Card,Success,2025-01-02,629.3
+779,779,Debit Card,Success,2025-09-18,23899.2
+780,780,UPI,Success,2025-07-10,13197.6
+781,781,UPI,Success,2025-07-15,279742.3
+782,782,Net Banking,Success,2025-07-03,70931.0
+783,783,Cash on Delivery,Success,2025-03-19,78373.7
+784,784,Debit Card,Success,2025-10-16,8508.0
+785,785,UPI,Success,2025-12-22,19315.4
+786,786,Credit Card,Success,2025-10-23,149675.85
+787,787,UPI,Failed,2025-03-26,2958.3
+788,788,Cash on Delivery,Success,2025-03-28,16541.1
+789,789,UPI,Success,2025-08-23,31787.4
+790,790,UPI,Success,2025-02-21,41074.4
+791,791,Cash on Delivery,Success,2025-04-18,271847.7
+792,792,UPI,Success,2025-09-25,3120.75
+793,793,UPI,Success,2025-08-07,27734.5
+794,794,Debit Card,Success,2025-03-11,57290.5
+795,795,Credit Card,Success,2025-12-20,99588.55
+796,796,Net Banking,Success,2025-12-15,43298.8
+797,797,Debit Card,Success,2025-07-05,75635.8
+798,798,UPI,Success,2025-12-19,199880.1
+799,799,UPI,Success,2025-04-08,73297.05
+800,800,Debit Card,Success,2025-05-20,78484.95
+801,801,Net Banking,Success,2025-01-15,13480.7
+802,802,Cash on Delivery,Success,2025-08-01,201047.75
+803,803,Credit Card,Success,2025-03-01,78670.2
+804,804,Net Banking,Success,2025-08-18,11085.6
+805,805,Net Banking,Success,2025-02-17,100206.0
+806,806,Cash on Delivery,Pending,2025-09-17,84794.4
+807,807,Debit Card,Success,2025-09-16,199514.25
+808,808,Net Banking,Success,2025-02-20,6501.0
+809,809,Cash on Delivery,Success,2025-03-14,378149.85
+810,810,UPI,Success,2025-12-14,4754.5
+811,811,UPI,Success,2025-09-17,18516.05
+812,812,Cash on Delivery,Success,2025-10-12,156311.75
+813,813,Cash on Delivery,Success,2025-06-23,4691.6
+814,814,Cash on Delivery,Success,2025-06-30,1513.6
+815,815,Debit Card,Success,2025-01-25,69608.1
+816,816,Net Banking,Success,2025-12-19,79010.35
+817,817,Credit Card,Success,2025-03-05,137264.4
+818,818,Credit Card,Success,2025-04-02,193789.9
+819,819,UPI,Success,2025-03-01,11482.8
+820,820,Debit Card,Success,2025-03-11,31536.55
+821,821,Cash on Delivery,Pending,2025-06-06,8334.0
+822,822,Debit Card,Success,2025-09-26,23434.0
+823,823,Credit Card,Success,2025-03-04,204268.0
+824,824,Debit Card,Success,2025-03-26,187620.0
+825,825,Debit Card,Success,2025-08-14,55854.600000000006
+826,826,UPI,Success,2025-02-28,110438.35
+827,827,UPI,Pending,2025-06-26,32061.35
+828,828,Cash on Delivery,Success,2025-11-03,114279.0
+829,829,Net Banking,Success,2025-03-05,2408.05
+830,830,Credit Card,Success,2025-01-12,2674.0
+831,831,Credit Card,Success,2025-09-20,199880.1
+832,832,Debit Card,Success,2025-12-30,3120.75
+833,833,Net Banking,Failed,2025-10-16,20836.2
+834,834,Cash on Delivery,Success,2025-08-07,48578.45
+835,835,Cash on Delivery,Success,2025-04-17,46835.7
+836,836,Cash on Delivery,Success,2025-11-27,152698.8
+837,837,Net Banking,Success,2025-03-10,136842.6
+838,838,Credit Card,Success,2025-03-04,11378.2
+839,839,Net Banking,Success,2025-04-19,2802.0
+840,840,Net Banking,Success,2025-11-22,36720.45
+841,841,UPI,Pending,2025-04-18,226409.45
+842,842,Credit Card,Success,2025-06-15,13618.9
+843,843,Cash on Delivery,Success,2025-01-11,10806.1
+844,844,Credit Card,Success,2025-09-14,81390.7
+845,845,Debit Card,Success,2025-11-13,3152.4
+846,846,Credit Card,Success,2025-02-15,84076.95
+847,847,Credit Card,Success,2025-10-09,81677.4
+848,848,Debit Card,Success,2025-01-23,60576.0
+849,849,UPI,Success,2025-01-10,133253.4
+850,850,UPI,Success,2025-08-02,36383.1
+851,851,Credit Card,Success,2025-10-30,4540.8
+852,852,Net Banking,Success,2025-03-16,9494.1
+853,853,Cash on Delivery,Success,2025-07-24,60185.1
+854,854,UPI,Success,2025-10-16,2666.0
+855,855,Credit Card,Pending,2025-03-07,72505.3
+856,856,Debit Card,Success,2025-04-08,51072.4
+857,857,Credit Card,Success,2025-06-04,24248.85
+858,858,Credit Card,Pending,2025-07-17,5762.4
+859,859,Cash on Delivery,Success,2025-09-30,39110.6
+860,860,Credit Card,Success,2025-01-22,5980.65
+861,861,UPI,Success,2025-12-17,25131.3
+862,862,Debit Card,Pending,2025-03-28,51348.0
+863,863,UPI,Success,2025-10-09,67876.8
+864,864,Net Banking,Success,2025-07-25,282870.1
+865,865,Debit Card,Success,2025-11-29,1518.3
+866,866,Debit Card,Success,2025-08-09,39604.6
+867,867,Credit Card,Success,2025-05-05,13873.5
+868,868,Debit Card,Failed,2025-06-08,20185.6
+869,869,Cash on Delivery,Success,2025-12-09,70958.1
+870,870,UPI,Success,2025-11-12,647.25
+871,871,Credit Card,Success,2025-11-24,2549.8
+872,872,Credit Card,Pending,2025-10-23,133046.9
+873,873,Cash on Delivery,Success,2025-11-26,61321.95
+874,874,Debit Card,Success,2025-08-21,1513.6
+875,875,Cash on Delivery,Success,2025-07-04,26947.2
+876,876,Credit Card,Success,2025-05-08,2012.0
+877,877,Cash on Delivery,Pending,2025-03-15,329.4
+878,878,Cash on Delivery,Success,2025-03-26,136334.9
+879,879,Credit Card,Failed,2025-09-01,67916.9
+880,880,Credit Card,Success,2025-11-28,22098.9
+881,881,Debit Card,Success,2025-09-26,3852.0
+882,882,Cash on Delivery,Success,2025-04-24,5413.6
+883,883,Credit Card,Success,2025-07-01,515.1
+884,884,Net Banking,Success,2025-12-25,69942.8
+885,885,Credit Card,Success,2025-10-09,259351.55
+886,886,Cash on Delivery,Success,2025-06-14,126612.05
+887,887,Net Banking,Success,2025-01-10,75498.8
+888,888,Credit Card,Success,2025-01-16,16185.4
+889,889,Debit Card,Success,2025-08-23,27864.35
+890,890,Net Banking,Success,2025-02-27,6815.3
+891,891,Debit Card,Success,2025-09-23,144400.0
+892,892,Cash on Delivery,Success,2025-03-07,4987.8
+893,893,Credit Card,Success,2025-10-23,9063.55
+894,894,Credit Card,Success,2025-02-24,4682.35
+895,895,Credit Card,Success,2025-03-28,11384.8
+896,896,Credit Card,Success,2025-06-14,47492.6
+897,897,Net Banking,Success,2025-05-03,42032.75
+898,898,Cash on Delivery,Pending,2025-03-29,4194.0
+899,899,Debit Card,Success,2025-06-01,303147.2
+900,900,Cash on Delivery,Success,2025-08-14,7414.95
+901,901,Credit Card,Success,2025-01-16,35429.05
+902,902,Debit Card,Success,2025-07-07,70637.7
+903,903,Cash on Delivery,Success,2025-12-20,11085.6
+904,904,Credit Card,Success,2025-12-18,83755.35
+905,905,Net Banking,Success,2025-12-05,109183.1
+906,906,Net Banking,Pending,2025-04-18,3895.2
+907,907,Net Banking,Success,2025-10-11,34181.6
+908,908,Net Banking,Success,2025-06-03,272878.55
+909,909,Net Banking,Success,2025-10-12,7008.65
+910,910,Debit Card,Success,2025-10-26,38312.6
+911,911,UPI,Success,2025-12-13,10163.65
+912,912,Net Banking,Success,2025-11-01,105310.05
+913,913,Debit Card,Success,2025-08-06,93810.0
+914,914,Debit Card,Success,2025-03-14,8765.2
+915,915,Debit Card,Success,2025-03-28,9087.8
+916,916,Debit Card,Success,2025-08-24,27156.0
+917,917,UPI,Success,2025-06-27,19056.6
+918,918,UPI,Success,2025-07-09,21746.25
+919,919,UPI,Success,2025-02-23,25644.5
+920,920,Debit Card,Failed,2025-08-02,324616.4
+921,921,Debit Card,Success,2025-09-19,54183.0
+922,922,Debit Card,Pending,2025-12-06,6114.95
+923,923,Credit Card,Success,2025-09-04,1566.55
+924,924,Cash on Delivery,Success,2025-10-24,17242.2
+925,925,UPI,Success,2025-04-09,13184.4
+926,926,Debit Card,Success,2025-01-16,96645.0
+927,927,Net Banking,Success,2025-01-24,50121.45
+928,928,Cash on Delivery,Failed,2025-01-30,76485.9
+929,929,Net Banking,Success,2025-05-13,165954.3
+930,930,Net Banking,Success,2025-01-24,199880.1
+931,931,Credit Card,Success,2025-04-01,215692.1
+932,932,Net Banking,Success,2025-01-22,92267.0
+933,933,Cash on Delivery,Pending,2025-01-28,14537.35
+934,934,Net Banking,Success,2025-09-13,157718.8
+935,935,UPI,Pending,2025-04-14,69812.0
+936,936,Credit Card,Pending,2025-02-15,89700.4
+937,937,Net Banking,Success,2025-12-13,10083.05
+938,938,Net Banking,Success,2025-12-28,29833.9
+939,939,Cash on Delivery,Success,2025-07-05,255649.35
+940,940,Debit Card,Success,2025-08-18,52325.0
+941,941,Cash on Delivery,Success,2025-03-24,2596.8
+942,942,Debit Card,Success,2025-03-24,27106.6
+943,943,Net Banking,Success,2025-07-25,132231.19999999998
+944,944,Debit Card,Success,2025-03-29,115362.0
+945,945,Net Banking,Success,2025-07-06,7200.0
+946,946,Net Banking,Pending,2025-10-08,74777.25
+947,947,Debit Card,Success,2025-07-04,15412.2
+948,948,Cash on Delivery,Success,2025-09-20,3448.5
+949,949,Credit Card,Success,2025-12-04,22622.0
+950,950,Debit Card,Success,2025-07-17,16627.800000000003
+951,951,Net Banking,Success,2025-06-11,1156.4
+952,952,Net Banking,Success,2025-04-25,69874.40000000001
+953,953,Cash on Delivery,Success,2025-11-06,110022.75
+954,954,Credit Card,Success,2025-08-31,71677.7
+955,955,UPI,Success,2025-02-11,4684.8
+956,956,Cash on Delivery,Success,2025-01-29,11416.7
+957,957,Debit Card,Pending,2025-03-20,154647.4
+958,958,Credit Card,Success,2025-06-11,183021.0
+959,959,Cash on Delivery,Success,2025-02-16,204478.9
+960,960,UPI,Success,2025-01-27,84455.2
+961,961,UPI,Success,2025-05-18,152984.15
+962,962,Credit Card,Success,2025-03-29,11835.4
+963,963,Net Banking,Success,2025-03-29,17985.75
+964,964,Credit Card,Success,2025-06-07,101527.65
+965,965,Debit Card,Success,2025-03-08,180495.0
+966,966,Net Banking,Pending,2025-07-02,236896.85
+967,967,Debit Card,Success,2025-02-16,154741.7
+968,968,Credit Card,Success,2025-12-04,1920.8
+969,969,Net Banking,Success,2025-02-08,15598.7
+970,970,Credit Card,Success,2025-09-29,43940.0
+971,971,Credit Card,Success,2025-04-19,39072.55
+972,972,Net Banking,Pending,2025-07-10,213377.8
+973,973,Net Banking,Success,2025-04-11,69942.8
+974,974,Credit Card,Success,2025-12-29,110189.75
+975,975,Debit Card,Success,2025-06-19,97925.3
+976,976,Net Banking,Success,2025-09-17,67876.8
+977,977,Cash on Delivery,Success,2025-03-31,68909.8
+978,978,Cash on Delivery,Success,2025-08-02,82197.6
+979,979,Cash on Delivery,Failed,2025-08-19,3980.2
+980,980,Debit Card,Success,2025-09-06,389234.7
+981,981,UPI,Success,2025-07-07,116568.75
+982,982,Net Banking,Success,2025-01-12,43299.8
+983,983,Net Banking,Success,2025-11-27,39238.2
+984,984,Cash on Delivery,Success,2025-06-05,60969.8
+985,985,Cash on Delivery,Success,2025-04-27,6493.25
+986,986,Net Banking,Success,2025-04-02,24888.45
+987,987,Cash on Delivery,Success,2025-09-18,56498.4
+988,988,UPI,Failed,2025-06-26,23654.3
+989,989,Net Banking,Success,2025-06-21,2958.3
+990,990,Debit Card,Success,2025-06-11,132375.25
+991,991,Cash on Delivery,Success,2025-11-30,11581.1
+992,992,Net Banking,Success,2025-10-25,28972.65
+993,993,Credit Card,Success,2025-03-12,13404.6
+994,994,Net Banking,Success,2025-01-14,383295.3
+995,995,Credit Card,Success,2025-06-22,23807.7
+996,996,Net Banking,Success,2025-03-02,5225.4
+997,997,Credit Card,Success,2025-05-17,59681.0
+998,998,Debit Card,Success,2025-02-10,206473.5
+999,999,UPI,Success,2025-01-29,83698.65000000001
+1000,1000,Net Banking,Success,2025-10-13,68693.7
