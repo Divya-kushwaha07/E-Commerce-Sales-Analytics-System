@@ -1,6 +1,12 @@
 import streamlit as st
 import pandas as pd
 import joblib
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+model = joblib.load(BASE_DIR / "models" / "spending_prediction_model.pkl")
+scaler = joblib.load(BASE_DIR / "models" / "scaler.pkl")
 
 st.set_page_config(
     page_title="E-Commerce Sales Analytics",
@@ -8,10 +14,7 @@ st.set_page_config(
     layout="centered"
 )
 
-model = joblib.load("../models/spending_prediction_model.pkl")
-scaler = joblib.load("../models/scaler.pkl")
-
-ml_df = pd.read_csv("../data/ml_dataset.csv")
+ml_df = pd.read_csv(BASE_DIR / "data" / "ml_dataset.csv")
 
 st.title(
     "🛒 E-Commerce Sales Analytics Dashboard"
@@ -31,7 +34,7 @@ An end-to-end E-Commerce Sales Analytics project that predicts customer spending
 """
 )
 
-orders_df = pd.read_csv("../data/orders.csv")
+orders_df = pd.read_csv(BASE_DIR / "data" / "orders.csv")
 
 st.divider()
 
