@@ -74,3 +74,18 @@ The model predicts customer spending based on:
 **Divya Kushwaha**
 
 Aspiring Data Analyst | Python | SQL | Machine Learning | Power BI
+
+## 🚀 Live Demo
+
+Streamlit App:
+https://e-commerce-sales-analytics-system-utxfymlrv6mndcpdw5sewh.streamlit.app/
+
+## 📸 Project Screenshots
+
+### Power BI Dashboard
+
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
+### Streamlit Application
+
+![Streamlit App](images/streamlit_app.png)
